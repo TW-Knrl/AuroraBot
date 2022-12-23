@@ -1,21 +1,8 @@
-"# riseclient-netlify" 
-"# riseclient-netlify" 
-"Start" 
-"# TW-Knrl" 
-"# TW-Knrl" 
-"# KFNLauncher" 
-"# DiscordModding" 
-"# TW-Index" 
-"# TW-Index" 
-"# Aurora-V2" 
-"# AuroraV2-VercelSite" 
-"# Aurora-Site" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# astralfn.github.io" 
-"# AuroraBackend" 
-"# AuroraBackend" 
-"# AuroraLauncher-API" 
-"# AuroraLauncher" 
-"# AuroraBot" 
+# AuroraBot
+
+Other options are using the source by zinx
+
+<br>
+https://github.com/zinx-YT/CloudV1-Bot <br>
+or <br>
+https://github.com/zinx-YT/Account-Creator
